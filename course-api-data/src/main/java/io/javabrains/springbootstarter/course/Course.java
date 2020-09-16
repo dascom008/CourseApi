@@ -62,4 +62,10 @@ public class Course {
 	public void setTopic(Topic topic) {
 		this.topic = topic;
 	}
+
+	@Override
+	public String toString() {
+		return "Course [id=" + id + ", name=" + name + ", description=" + description + ", topic=" + topic + "]";
+	}
+	
 }
