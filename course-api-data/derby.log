@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 15 22:10:50 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-92a3-e376-000000795ee8 
+on database directory memory:C:\Users\Kamesh\eclipse-workspace\course-api-data\ea8312d8-587b-433b-bb7a-935572fe25fe with class loader sun.misc.Launcher$AppClassLoader@1d16e93 
+Loaded from file:/C:/Users/Kamesh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\Kamesh\eclipse-workspace\course-api-data
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
